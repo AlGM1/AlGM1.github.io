@@ -1,0 +1,45 @@
+.profile-pic{
+  max-width:100%;	
+}
+/* comments in css*/
+.underline-text{
+  text-decoration: underline;
+}
+
+.social-icon{
+	color:hotpink;
+}
+
+.social-icon .fa:hover{
+	color:green;
+}
+
+a:hover{
+
+}
+.mycustomprogressbar{
+	background-color: :hotpink;
+}
+
+.abc{
+	background-color: black;
+}
+
+.card{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+body{
+	font-family: 'Baloo Bhaina', cursive;
+}
+
+.homepage{
+	background: url("../img/bg.gif");
+	background-size: cover;
+}
+
+.about-page{
+	background: url("../img/pic.jpg");
+	background-size: cover;
+}
